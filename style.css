@@ -1,0 +1,56 @@
+img {
+    width: 275px;
+    height: auto;
+    margin: auto;
+    display: block;
+    position: relative;
+    float: top;
+    top: 200px;
+}
+
+body {
+    background: whitesmoke;
+}
+
+.header {
+    position: absolute;
+    top: 2%;
+    right: 0;
+    width: 100%;
+}
+
+span {
+    margin: 2px 7px 2px 7px;
+}
+
+.rightSide {
+    display: inline;
+    float: right;
+    right: 5%;
+    position: relative;
+    
+}
+
+.search {
+    left: 40%;
+    margin: auto;
+    padding: 10px;
+    top: 250px;
+    position: relative;
+}
+
+button {
+    
+    position: relative;
+    left: 45%;
+    top: 270px;
+    margin: 7px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 1px;
+    width: 100%;
+    background: rgb(228, 228, 228);
+    
+}
